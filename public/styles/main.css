@@ -1,0 +1,6 @@
+.cover-side{
+    background: url('../images/Cover.png');
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
